@@ -54,9 +54,9 @@ const MainPage = () => {
         </button>
         <Divider
           class=" pt-4 bottom-0"
-          left="ჩვენი პარტნიორები"
+          left=""
           leftClass="text-lg"
-          partners={true}
+          partners={false}
         />
       </div>
     </Page>
